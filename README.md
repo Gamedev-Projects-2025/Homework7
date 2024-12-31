@@ -1,5 +1,6 @@
 # Homework 7
 https://lidx7.itch.io/homework-7
+
 We chose the first option from all 3 files, meaning we:
 ### 1. Added a working room above the building, with stairs access from inside the building and light inside.
 ### 2. Added a jump option for the player. pressing spacebar will make the player jump
