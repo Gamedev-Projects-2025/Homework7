@@ -10,10 +10,11 @@ public class EnemyControllerStateMachine : StateMachine
     [SerializeField] float probabilityToRotate = 0.2f;
     [SerializeField] float probabilityToStopRotating = 0.2f;
 
-    [Tooltip("If checked, enemy will run away when seeing the player. Can't be checked with runaway field.")]
+   
+    [Tooltip("If checked, enemy will chase the player")]
     [SerializeField] bool chase = true;
 
-    [Tooltip("If checked, enemy will chase the player. Can't be checked with chase field")]
+    [Tooltip("If checked, enemy will run away when seeing the player.")]
     [SerializeField] bool runaway = false;
 
     [Tooltip("If checked enemy will enter the building and try to destroy the machine")]

@@ -19148,9 +19148,9 @@ MonoBehaviour:
   radiusToWatch: 1000
   probabilityToRotate: 0.2
   probabilityToStopRotating: 0.2
-  chase: 1
+  chase: 0
   runaway: 0
-  goDestroy: 0
+  goDestroy: 1
   destroyReachDistance: 1
 --- !u!114 &1725965681
 MonoBehaviour:
